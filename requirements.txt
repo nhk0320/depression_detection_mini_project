@@ -3,5 +3,6 @@ pandas
 scikit-learn
 joblib
 opencv-python-headless
-tensorflow-cpu
+tensorflow
 Pillow
+numpy
