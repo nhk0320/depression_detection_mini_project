@@ -6,3 +6,4 @@ opencv-python-headless
 tensorflow
 Pillow
 numpy
+supabase-py
